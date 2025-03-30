@@ -1,4 +1,4 @@
 # ansible
 
 
-This is my awesoem Ansible repositiory!
+This is my awesome Ansible repositiory!
