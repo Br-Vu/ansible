@@ -1,2 +1,3 @@
-guest@10.27.28.21
-guest@10.27.28.22
+[web_servers]
+guest@10.27.28.10 
+guest@10.27.28.15 
